@@ -4,4 +4,6 @@ dialog de ayuda al spawn
 
 ubiacion de auto escuela fixeada /gps
 
+poder usar /morir con estrellas fixeado
+
 
