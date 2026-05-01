@@ -1,3 +1,5 @@
 # GameMode
 
-dialog de ayuda al spawn 28/4/2026
+dialog de ayuda al spawn
+
+rework de la ubicacion autoescuela /gps
