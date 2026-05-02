@@ -15,3 +15,5 @@ nuevo textdraw de velocimetro
 referidos eliminados pepe, busta
 
 nuevo textdraw de nombre en la pantalla
+
+comandos de la faccion SAPD eliminados /vp /dvp /policias
