@@ -9,3 +9,5 @@ poder usar /morir con estrellas fixeado
 nuevo banco ubicado en /gps
 
 bono de referido editado
+
+nuevo textdraw de velocimetro
