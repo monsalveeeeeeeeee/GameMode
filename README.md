@@ -11,3 +11,5 @@ nuevo banco ubicado en /gps
 bono de referido editado
 
 nuevo textdraw de velocimetro
+
+referidos eliminados pepe, busta
