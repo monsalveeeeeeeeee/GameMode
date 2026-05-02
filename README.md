@@ -13,3 +13,5 @@ bono de referido editado
 nuevo textdraw de velocimetro
 
 referidos eliminados pepe, busta
+
+nuevo textdraw de nombre en la pantalla
